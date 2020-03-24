@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Initialise Payments
+        //Initiate Payments
         Creditcard creditcard = new Creditcard();
         Debitcard debitcard = new Debitcard();
         Cash cash = new Cash();
